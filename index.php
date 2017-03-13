@@ -1,1 +1,6 @@
-<?php echo "hello" ?>
+<?php 
+echo "hello" ;
+for($i=0;;$i<10;$i++){
+	echo "Ola mundos";
+}
+?>
